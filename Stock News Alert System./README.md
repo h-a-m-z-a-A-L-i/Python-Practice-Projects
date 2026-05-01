@@ -1,4 +1,4 @@
-# Stock News Alert System 📈🚀
+# Stock News Alert System 
 
 A Python application that monitors stock price movements and automatically sends news alerts via SMS when significant changes occur.
 
