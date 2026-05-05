@@ -1,4 +1,4 @@
-# 🎤 Kanye Quotes App
+#  Kanye Quotes App
 
 A sleek, desktop application built with Python and Tkinter that delivers random pearls of wisdom from Kanye West. 
 
@@ -6,13 +6,13 @@ A sleek, desktop application built with Python and Tkinter that delivers random 
 ![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge)
 ![API](https://img.shields.io/badge/API-kanye.rest-orange?style=for-the-badge)
 
-## ✨ Features
+##  Features
 - **Instant Wisdom:** Fetches random quotes from the [kanye.rest](https://kanye.rest) API.
 - **Dynamic UI:** Automatically adjusts font size to ensure long quotes fit perfectly in the speech bubble.
 - **Interactive Experience:** Real-time loading states and a "Thinking..." indicator for a responsive feel.
 - **Minimalist Design:** A clean, focused interface with custom assets.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.x
@@ -32,11 +32,3 @@ A sleek, desktop application built with Python and Tkinter that delivers random 
    python main.py
    ```
 
-## 🛠️ Built With
-- **Python** - Core logic
-- **Tkinter** - GUI framework
-- **Requests** - API interaction
-- **Kanye.rest** - Wisdom source
-
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
